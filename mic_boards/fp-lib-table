@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AE")(type "KiCad")(uri "${KIPRJMOD}/library/AE_micboards.pretty")(options "")(descr ""))
+)

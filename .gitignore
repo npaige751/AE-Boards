@@ -1,0 +1,4 @@
+**/*-backups/**
+**/*.3dshapes/**
+_autosave*
+fp-info-cache
