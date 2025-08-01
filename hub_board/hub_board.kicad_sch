@@ -8178,7 +8178,7 @@
 		)
 		(uuid "5e1aa2eb-732a-4c13-aa6f-988cd8671902")
 	)
-	(label "ETH2_2N"
+	(label "ETH2_1N"
 		(at 114.3 63.5 0)
 		(effects
 			(font
@@ -8418,7 +8418,7 @@
 		)
 		(uuid "9383a520-e62c-4fa3-b186-37e0bf7b377f")
 	)
-	(label "ETH2_1P"
+	(label "ETH2_2P"
 		(at 114.3 53.34 0)
 		(effects
 			(font
@@ -8458,7 +8458,7 @@
 		)
 		(uuid "994e31b3-9ad4-43ee-b9c5-b3666b4185a1")
 	)
-	(label "ETH2_3P"
+	(label "ETH2_4P"
 		(at 114.3 68.58 0)
 		(effects
 			(font
@@ -8488,7 +8488,7 @@
 		)
 		(uuid "9b3c7885-d39c-44a8-b16e-e3f64cae2885")
 	)
-	(label "ETH2_4P"
+	(label "ETH2_3N"
 		(at 114.3 76.2 0)
 		(effects
 			(font
@@ -8608,7 +8608,7 @@
 		)
 		(uuid "b7970dc8-01d6-44b3-beb5-60aff670e564")
 	)
-	(label "ETH2_4N"
+	(label "ETH2_3P"
 		(at 114.3 78.74 0)
 		(effects
 			(font
@@ -8818,7 +8818,7 @@
 		)
 		(uuid "db1e62e5-5415-4e99-a9e4-0adb5bfe2911")
 	)
-	(label "ETH2_3N"
+	(label "ETH2_4N"
 		(at 114.3 71.12 0)
 		(effects
 			(font
@@ -8898,7 +8898,7 @@
 		)
 		(uuid "e48de7a7-cfa7-471b-b407-9c62a4bef7b8")
 	)
-	(label "ETH2_1N"
+	(label "ETH2_2N"
 		(at 114.3 55.88 0)
 		(effects
 			(font
@@ -8948,7 +8948,7 @@
 		)
 		(uuid "ecc54d5e-e4e1-40d0-9d39-b6006970786d")
 	)
-	(label "ETH2_2P"
+	(label "ETH2_1P"
 		(at 114.3 60.96 0)
 		(effects
 			(font
